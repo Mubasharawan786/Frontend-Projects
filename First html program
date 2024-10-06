@@ -1,0 +1,59 @@
+<!--
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mubashar Times | Home</title>
+<link rel="stylesheet" href="style.css" />
+  </head>
+<body>
+<header>
+  <h1> Mubashar Times </h1>
+  </header>
+   
+   <nav>
+   <a href=#> Home </a>
+   <a href=#> Login </a>
+   <a href=#> Sign up </a>
+   <a href=#> Settings </a>
+   </nav>
+   
+   <main>
+   <section>
+   <h1> Courses </h1>
+  <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% poster="C:\Users\l\Pictures\Screenshots\Colour.png"  controls>  </video> 
+  <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% >  </video>
+  <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% poster="C:\Users\l\Pictures\Screenshots\Colour.png"  controls>  </video> 
+  <br>
+  <br>
+  <br>
+  <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% >  </video>
+   <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% poster="C:\Users\l\Pictures\Screenshots\Colour.png"  controls>  </video> 
+  <video src="C:\Users\l\Videos\Captures\DigiSkills.mp4" width=33% >  </video>
+   <section> 
+<section>
+<h1> Notes </h1>
+<a href="file:///C:/Users/l/Desktop/tonny%20gaddis.pdf" target="_blank"> <img src="C:\Users\l\Pictures\Screenshots\Screenshot (311).png" width=24% > </a>
+<a href="file:///C:/Users/l/Desktop/tonny%20gaddis.pdf" target="_blank"> <img src="C:\Users\l\Pictures\Screenshots\Screenshot (311).png" width=24% > </a>
+<a href="file:///C:/Users/l/Desktop/tonny%20gaddis.pdf" target="_blank"> <img src="C:\Users\l\Pictures\Screenshots\Screenshot (311).png" width=24% > </a>
+</section>
+<section>
+
+<h1>Reviews  </h1>
+ <iframe width=33% height=315 src="https://www.google.com"></ifram>
+ </section>
+
+ <footer>
+    <a href="#" >Content Police</a>
+    <a href="#">Contact Us</a>
+    <a href="#"> Sign Up</a>
+    <a href="#">FAQs</a>
+</footer>
+</main>
+</body>
+
+</html>
