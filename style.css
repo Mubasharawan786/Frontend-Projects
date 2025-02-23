@@ -16,10 +16,10 @@ height: 50px;
 width: 100px;
 }
 .logo {
-    background-image: url("amazon_logo.png"); /* Use correct relative path */
-    background-size: cover; /* Ensures the image fits the div */
+    background-image: url("amazon_logo.png"); 
+    background-size: cover; 
     height: 50px;
-    width: 100%;
+    width: 100px;
 }
 .border{
     border: 1.5px solid transparent;
@@ -190,6 +190,9 @@ font-size: 30px;
 }
 
 /**Footer**/
+footer{
+    margin-top: 1rem;
+}
 .foot-pannel1{
     display: flex;
     background-color: #374751;
@@ -198,4 +201,39 @@ font-size: 30px;
     align-items: center;
     height:50px;
     font-size: 13px;
+}
+.foot-pannel2{
+    display: flex;
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    justify-content: space-evenly;
+}
+ul a{
+    display: block;
+    font-size:14px ;
+    margin-top: 10px;
+    color: #dddddd;
+}
+ul p{
+    font-weight: 700;
+}
+ul{
+    margin-top: 35px;
+}
+
+/**Foot pannel3 **/
+.foot-pannel3{
+    background-color: #222f3d;
+    height: 70px;
+    border-top: 0.5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    background-image: url("amazon_logo.png"); 
+    background-size: cover; 
+    height: 50px;
+    width: 100px;
 }
