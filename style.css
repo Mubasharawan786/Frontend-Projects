@@ -101,9 +101,6 @@ margin-left: 3px;
 }
 
 /**Box 5**/
-.nav-signin{
-    
-}
 .nav-first{
 font-size: 12px;
 }
@@ -190,4 +187,15 @@ font-size: 30px;
     
     margin-left: 1rem;
     margin-Right: 1rem;    
+}
+
+/**Footer**/
+.foot-pannel1{
+    display: flex;
+    background-color: #374751;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+    font-size: 13px;
 }
