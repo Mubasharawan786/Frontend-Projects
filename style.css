@@ -224,6 +224,7 @@ ul{
 
 /**Foot pannel3 **/
 .foot-pannel3{
+   color: #cccccc;
     background-color: #222f3d;
     height: 70px;
     border-top: 0.5px solid white;
@@ -236,4 +237,41 @@ ul{
     background-size: cover; 
     height: 50px;
     width: 100px;
+}
+.foot-pannel3 a{
+    padding: 1px 1px 1px 1px;
+    margin-left:8px;
+    margin-right:5px ;
+    display: block;
+    border: 0.5px solid #cccccc;
+}
+.footer-flag{
+    margin: 5px;
+    display: flex;
+    border: 1px solid white;
+}
+#flag{
+    background-size: cover;
+    width: 21px;
+    height: 17px;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: relative;
+    bottom: 2px;
+}
+
+/**Footer pannel4**/
+.foot-pannel4{
+    font-size: 12px;
+    color: white;
+    background-color: #0f1111;
+    height: 77px;
+    text-align: center;
+    
+}
+.pages{
+    padding-top: 25px;
+}    
+.copy-rights{
+    padding-top: 5px;
 }
